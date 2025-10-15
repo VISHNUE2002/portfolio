@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.521184a1.css",
+    "main.js": "/portfolio/static/js/main.5fa85877.js",
+    "static/media/about.png": "/portfolio/static/media/about.619ff0b319a55d0c05b1.png",
+    "static/media/hero.png": "/portfolio/static/media/hero.f14f30c6d01a97df04f6.png",
+    "static/media/resume.jpg": "/portfolio/static/media/resume.40d9ec3d0701d254f50f.jpg",
+    "static/media/Bookie-1024x807.jpg": "/portfolio/static/media/Bookie-1024x807.7d6e7eb692dc9ef28453.jpg",
+    "static/media/food-ecommerce.jpg": "/portfolio/static/media/food-ecommerce.326353bf18adc9f60576.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.521184a1.css.map": "/portfolio/static/css/main.521184a1.css.map",
+    "main.5fa85877.js.map": "/portfolio/static/js/main.5fa85877.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.521184a1.css",
+    "static/js/main.5fa85877.js"
+  ]
+}
